@@ -1,8 +1,3 @@
----
-title: Getting Started
-description: Install and start using the Cline TOML parser for PHP to parse TOML configuration files into PHP arrays or objects.
----
-
 Parse TOML (Tom's Obvious Minimal Language) configuration files into PHP arrays or objects with full support for TOML specification 0.4.0.
 
 **Use case:** Parse TOML configuration files for application settings, package configurations, or any structured data storage needs.

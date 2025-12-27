@@ -1,8 +1,3 @@
----
-title: Building TOML
-description: Create TOML content programmatically using the fluent TomlBuilder API with support for all TOML data types and structures.
----
-
 Build TOML documents programmatically using the fluent `TomlBuilder` API. Perfect for generating configuration files, exports, or dynamic TOML content.
 
 ## Basic Usage

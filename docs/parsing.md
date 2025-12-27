@@ -1,8 +1,3 @@
----
-title: Parsing TOML
-description: Parse TOML strings and files into PHP arrays or objects with comprehensive error handling and validation.
----
-
 Parse TOML content from strings or files into native PHP data structures with full TOML 0.4.0 specification support.
 
 ## Parsing Methods

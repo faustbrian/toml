@@ -1,8 +1,3 @@
----
-title: Data Types
-description: Complete guide to all TOML data types supported by the Cline TOML parser including strings, numbers, booleans, dates, arrays, tables, and inline tables.
----
-
 The Cline TOML parser supports all data types defined in the TOML 0.4.0 specification. Learn how each type is parsed and represented in PHP.
 
 ## Strings

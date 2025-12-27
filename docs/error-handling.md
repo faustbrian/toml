@@ -1,8 +1,3 @@
----
-title: Error Handling
-description: Comprehensive guide to exception types and error handling strategies for the Cline TOML parser including parse errors, validation errors, and file access errors.
----
-
 Handle parsing and building errors effectively with the comprehensive exception hierarchy provided by the Cline TOML parser.
 
 ## Exception Hierarchy
