@@ -406,6 +406,6 @@ $config = Toml::parse($toml);
 
 ## Next Steps
 
-- [Building TOML](/toml/building/) - Create TOML programmatically
-- [Data Types](/toml/data-types/) - Learn about all supported data types
-- [Error Handling](/toml/error-handling/) - Handle parsing errors effectively
+- [Building TOML](./building.md) - Create TOML programmatically
+- [Data Types](./data-types.md) - Learn about all supported data types
+- [Error Handling](./error-handling.md) - Handle parsing errors effectively

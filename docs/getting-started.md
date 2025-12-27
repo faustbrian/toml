@@ -176,7 +176,7 @@ Example TOML features:
 
 ## Next Steps
 
-- [Parsing](/toml/parsing/) - Learn about parsing options and result formats
-- [Building](/toml/building/) - Create TOML programmatically with TomlBuilder
-- [Data Types](/toml/data-types/) - Explore all supported TOML data types
-- [Error Handling](/toml/error-handling/) - Handle parsing errors effectively
+- [Parsing](./parsing.md) - Learn about parsing options and result formats
+- [Building](./building.md) - Create TOML programmatically with TomlBuilder
+- [Data Types](./data-types.md) - Explore all supported TOML data types
+- [Error Handling](./error-handling.md) - Handle parsing errors effectively

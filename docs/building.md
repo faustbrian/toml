@@ -517,6 +517,6 @@ $toml = (new TomlBuilder())
 
 ## Next Steps
 
-- [Data Types](/toml/data-types/) - Learn about all supported data types
-- [Error Handling](/toml/error-handling/) - Handle builder exceptions
-- [Parsing TOML](/toml/parsing/) - Parse TOML back into PHP
+- [Data Types](./data-types.md) - Learn about all supported data types
+- [Error Handling](./error-handling.md) - Handle builder exceptions
+- [Parsing TOML](./parsing.md) - Parse TOML back into PHP

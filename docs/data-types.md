@@ -652,6 +652,6 @@ first-name = "value"
 
 ## Next Steps
 
-- [Parsing TOML](/toml/parsing/) - Learn how to parse TOML files
-- [Building TOML](/toml/building/) - Create TOML programmatically
-- [Error Handling](/toml/error-handling/) - Handle type-related errors
+- [Parsing TOML](./parsing.md) - Learn how to parse TOML files
+- [Building TOML](./building.md) - Create TOML programmatically
+- [Error Handling](./error-handling.md) - Handle type-related errors
