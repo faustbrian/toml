@@ -611,6 +611,6 @@ try {
 
 ## Next Steps
 
-- [Getting Started](./getting-started.md) - Basic usage and installation
+- [Getting Started](./README.md) - Basic usage and installation
 - [Parsing TOML](./parsing.md) - Learn about parsing options
 - [Building TOML](./building.md) - Create TOML programmatically
