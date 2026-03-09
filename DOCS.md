@@ -1,10 +1,12 @@
 ## Table of Contents
 
-1. Overview (`docs/README.md`)
-2. Building (`docs/building.md`)
-3. Data Types (`docs/data-types.md`)
-4. Error Handling (`docs/error-handling.md`)
-5. Parsing (`docs/parsing.md`)
+1. [Overview](#doc-docs-readme) (`docs/README.md`)
+2. [Building](#doc-docs-building) (`docs/building.md`)
+3. [Data Types](#doc-docs-data-types) (`docs/data-types.md`)
+4. [Error Handling](#doc-docs-error-handling) (`docs/error-handling.md`)
+5. [Parsing](#doc-docs-parsing) (`docs/parsing.md`)
+<a id="doc-docs-readme"></a>
+
 Parse TOML (Tom's Obvious Minimal Language) configuration files into PHP arrays or objects with full support for TOML specification 0.4.0.
 
 **Use case:** Parse TOML configuration files for application settings, package configurations, or any structured data storage needs.
@@ -178,10 +180,12 @@ Example TOML features:
 
 ## Next Steps
 
-- [Parsing](./parsing.md) - Learn about parsing options and result formats
-- [Building](./building.md) - Create TOML programmatically with TomlBuilder
-- [Data Types](./data-types.md) - Explore all supported TOML data types
-- [Error Handling](./error-handling.md) - Handle parsing errors effectively
+- [Parsing](#doc-docs-parsing) - Learn about parsing options and result formats
+- [Building](#doc-docs-building) - Create TOML programmatically with TomlBuilder
+- [Data Types](#doc-docs-data-types) - Explore all supported TOML data types
+- [Error Handling](#doc-docs-error-handling) - Handle parsing errors effectively
+
+<a id="doc-docs-building"></a>
 
 Build TOML documents programmatically using the fluent `TomlBuilder` API. Perfect for generating configuration files, exports, or dynamic TOML content.
 
@@ -697,9 +701,11 @@ $toml = (new TomlBuilder())
 
 ## Next Steps
 
-- [Data Types](./data-types.md) - Learn about all supported data types
-- [Error Handling](./error-handling.md) - Handle builder exceptions
-- [Parsing TOML](./parsing.md) - Parse TOML back into PHP
+- [Data Types](#doc-docs-data-types) - Learn about all supported data types
+- [Error Handling](#doc-docs-error-handling) - Handle builder exceptions
+- [Parsing TOML](#doc-docs-parsing) - Parse TOML back into PHP
+
+<a id="doc-docs-data-types"></a>
 
 The Cline TOML parser supports all data types defined in the TOML 0.4.0 specification. Learn how each type is parsed and represented in PHP.
 
@@ -1350,9 +1356,11 @@ first-name = "value"
 
 ## Next Steps
 
-- [Parsing TOML](./parsing.md) - Learn how to parse TOML files
-- [Building TOML](./building.md) - Create TOML programmatically
-- [Error Handling](./error-handling.md) - Handle type-related errors
+- [Parsing TOML](#doc-docs-parsing) - Learn how to parse TOML files
+- [Building TOML](#doc-docs-building) - Create TOML programmatically
+- [Error Handling](#doc-docs-error-handling) - Handle type-related errors
+
+<a id="doc-docs-error-handling"></a>
 
 Handle parsing and building errors effectively with the comprehensive exception hierarchy provided by the Cline TOML parser.
 
@@ -1962,9 +1970,11 @@ try {
 
 ## Next Steps
 
-- [Getting Started](./README.md) - Basic usage and installation
-- [Parsing TOML](./parsing.md) - Learn about parsing options
-- [Building TOML](./building.md) - Create TOML programmatically
+- [Getting Started](#doc-docs-readme) - Basic usage and installation
+- [Parsing TOML](#doc-docs-parsing) - Learn about parsing options
+- [Building TOML](#doc-docs-building) - Create TOML programmatically
+
+<a id="doc-docs-parsing"></a>
 
 Parse TOML content from strings or files into native PHP data structures with full TOML 0.4.0 specification support.
 
@@ -2369,6 +2379,6 @@ $config = Toml::parse($toml);
 
 ## Next Steps
 
-- [Building TOML](./building.md) - Create TOML programmatically
-- [Data Types](./data-types.md) - Learn about all supported data types
-- [Error Handling](./error-handling.md) - Handle parsing errors effectively
+- [Building TOML](#doc-docs-building) - Create TOML programmatically
+- [Data Types](#doc-docs-data-types) - Learn about all supported data types
+- [Error Handling](#doc-docs-error-handling) - Handle parsing errors effectively
