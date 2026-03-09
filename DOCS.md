@@ -1,10 +1,10 @@
 ## Table of Contents
 
-1. [Overview](#doc-docs-readme) (`docs/README.md`)
-2. [Building](#doc-docs-building) (`docs/building.md`)
-3. [Data Types](#doc-docs-data-types) (`docs/data-types.md`)
-4. [Error Handling](#doc-docs-error-handling) (`docs/error-handling.md`)
-5. [Parsing](#doc-docs-parsing) (`docs/parsing.md`)
+1. [Overview](#doc-docs-readme)
+2. [Building](#doc-docs-building)
+3. [Data Types](#doc-docs-data-types)
+4. [Error Handling](#doc-docs-error-handling)
+5. [Parsing](#doc-docs-parsing)
 <a id="doc-docs-readme"></a>
 
 Parse TOML (Tom's Obvious Minimal Language) configuration files into PHP arrays or objects with full support for TOML specification 0.4.0.
